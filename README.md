@@ -1,9 +1,9 @@
-🛍️ Product Card Design
+🛍️ Product Card Design..
 
 This Product Card Design project is a simple static layout created using HTML and CSS. The card showcases a product image, title, price, and a button for adding the product to the cart. 
 It's perfect for practicing front-end design and layout techniques without any JavaScript functionality.
 
-✨ Features
+✨ Features..
 
 🎨 Clean Design: Focuses on a clean and minimalistic layout.
 
@@ -13,7 +13,7 @@ It's perfect for practicing front-end design and layout techniques without any J
 
 🛒 Add to Cart Button: A visually appealing button for adding the product to the cart (non-functional).
 
-🎯 Project Overview
+🎯 Project Overview..
 
 This is a front-end project aimed at improving my skills in CSS layout and design.
 It demonstrates how to create a visually appealing product card using only HTML and CSS, making it a useful template for e-commerce websites or UI showcases.
